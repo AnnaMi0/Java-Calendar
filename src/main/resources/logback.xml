@@ -1,0 +1,7 @@
+<configuration>
+    <logger name="net.fortuna.ical4j" level="INFO" />
+
+    <root level="debug">
+        <appender-ref ref="STDOUT" />
+    </root>
+</configuration>
