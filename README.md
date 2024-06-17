@@ -8,14 +8,10 @@
 - [Java JDK 17 LTS](https://www.oracle.com/java/technologies/downloads/#java17)
 - [Maven](https://maven.apache.org/download.cgi)
 
-## <ins>Executing Program</ins>
+## <ins>How to run</ins>
 
 <ol>
 <li>Go to project folder:</li>
-
-The directory in which you're in should be like: `/.../OOP2ndPart`,
-example: `~/Documents/OOP2ndPart`
-
 
 ```bash
 cd /.../OOP2ndPart
@@ -51,7 +47,7 @@ java -jar target/OOP2ndPart-1.0-SNAPSHOT.jar
 - [ChatGPT](https://chat.openai.com/)
 - [StackOverflow](https://stackoverflow.com/)
 - [Github docs (αρχείο MD)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [daringfireball.net](https://daringfireball.net/projects/markdown/) (αρχείο MD)
+- [daringfireball.net](https://daringfireball.net/projects/markdown/) (.md file)
 - [ical.marudot.com](https://ical.marudot.com/)
 - bingchat
 - Deitel-Java Programming 10th Edition
